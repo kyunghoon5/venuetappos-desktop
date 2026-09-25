@@ -38,6 +38,20 @@ Rooms, tables, bar tabs, and quick service in one screen — photo menus, split 
 
 ![Register POS](https://venuetappos.com/screens/register.webp)
 
+### Rooms & floor, your way
+
+**Rooms with live timers** — count-up or count-down billing with per-hour rates by day and time. Each occupied room shows guests, elapsed time, and time remaining at a glance.
+
+![Rooms](assets/rooms.png)
+
+**Configure everything from one settings screen** — items and menus, rooms and rates, employees and permissions, receipt/kitchen printers, PAX card payments, QR ordering, and audit / fraud review.
+
+![Settings](assets/settings.png)
+
+**Drag-and-drop floor plan** — add tables, resize and arrange them, and drop in bar, kitchen, and entrance markers.
+
+![Floor plan editor](assets/floor-editor.png)
+
 ### Self-service — kiosk & QR
 Any touchscreen becomes a card-only, pay-first kiosk. Every table and room gets a QR code so guests order from their own phone. No app to install.
 
@@ -57,20 +71,6 @@ A second screen mirrors the register in real time — every line, option, and to
 Daily, weekly, and item-rank reports for one store or all of them, from any browser. Excel exports, and owner / manager / viewer roles per store.
 
 ![Owner portal](https://venuetappos.com/screens/portal-summary.webp)
-
-### Rooms & floor, your way
-
-**Rooms with live timers** — count-up or count-down billing with per-hour rates by day and time. Each occupied room shows guests, elapsed time, and time remaining at a glance.
-
-![Rooms](assets/rooms.png)
-
-**Configure everything from one settings screen** — items and menus, rooms and rates, employees and permissions, receipt/kitchen printers, PAX card payments, QR ordering, and audit / fraud review.
-
-![Settings](assets/settings.png)
-
-**Drag-and-drop floor plan** — add tables, resize and arrange them, and drop in bar, kitchen, and entrance markers.
-
-![Floor plan editor](assets/floor-editor.png)
 
 ---
 
