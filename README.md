@@ -58,17 +58,18 @@ Daily, weekly, and item-rank reports for one store or all of them, from any brow
 
 ![Owner portal](https://venuetappos.com/screens/portal-summary.webp)
 
-### Set it up your way
+### Rooms & floor, your way
 
-Build your rooms, tables, and pricing right from the settings screen — no installer visit needed.
+**Rooms with live timers** — count-up or count-down billing with per-hour rates by day and time. Each occupied room shows guests, elapsed time, and time remaining at a glance.
 
-**Per-room rates by day and time** — count-up or count-down billing, base guest count, and extra-guest charges, all editable:
+![Rooms](assets/rooms.png)
 
-![Room rates](assets/room-rates.png)
+**Configure everything from one settings screen** — items and menus, rooms and rates, employees and permissions, receipt/kitchen printers, PAX card payments, QR ordering, and audit / fraud review.
 
-**Drag-and-drop floor plan** — add tables, resize and arrange them, and drop in bar, kitchen, and entrance markers:
+![Settings](assets/settings.png)
 
-![Floor plan](assets/floor-plan.png)
+**Drag-and-drop floor plan** — add tables, resize and arrange them, and drop in bar, kitchen, and entrance markers.
+
 ![Floor plan editor](assets/floor-editor.png)
 
 ---
