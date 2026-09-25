@@ -41,12 +41,12 @@ Rooms, tables, bar tabs, and quick service in one screen — photo menus, split 
 ### Self-service — kiosk & QR
 Any touchscreen becomes a card-only, pay-first kiosk. Every table and room gets a QR code so guests order from their own phone. No app to install.
 
-![Self-order kiosk](https://venuetappos.com/screens/kiosk-menu.webp)
+![Self-order kiosk](assets/kiosk.png)
 
 ### Kitchen display
 Orders from registers, kiosks, and guest phones land in one queue. Tickets age from green to red, routed to the right printer and station.
 
-![Kitchen display](https://venuetappos.com/screens/kds-wide.webp)
+![Kitchen display](assets/kitchen.png)
 
 ### Customer-facing display
 A second screen mirrors the register in real time — every line, option, and total, then card prompts, change due, and a thank-you.
